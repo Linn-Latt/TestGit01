@@ -2,4 +2,6 @@
 
 	echo "New";
 
+	echo "Update file";
+
 ?>
